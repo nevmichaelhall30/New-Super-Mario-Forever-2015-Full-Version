@@ -235,3 +235,6 @@ This repository serves as the official landing page for New Super Mario Forever 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of New Super Mario Forever 2015 today!**
+
+---
+**Last updated:** 2026-09-11 22:08:02 UTC
